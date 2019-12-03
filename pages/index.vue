@@ -2,12 +2,13 @@
   <div class="container">
     <div>
       <logo />
-      <h1 class="title">
-        Hello World
+      <h1 class="title text-red-500">
+        Arif Ikhsanudin
       </h1>
       <h2 class="subtitle">
         My tremendous Nuxt.js project
       </h2>
+      <p class="text-blue-600">Tailwindcss works!</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
